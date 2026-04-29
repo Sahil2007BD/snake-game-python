@@ -21,3 +21,4 @@ A classic Snake game built using Python and the Pygame library. This project is 
 
 ---
 
+<img width="617" height="656" alt="image" src="https://github.com/user-attachments/assets/0894b220-0665-4338-9ccc-071fc34b2564" />
